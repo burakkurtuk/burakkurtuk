@@ -1,12 +1,12 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">Self-thought and highly motivated entry level Front End Developer. Currently I am diving to deep ReactJS. The opportunity to improve myself
+<h4 align="center">Self-thought and highly motivated entry level Software Quality Assurance Engineer. The opportunity to improve myself
 every day as far as in me lain excites me so much. I am trying to keep up-to-date my Github
 proﬁle daily. So don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
 
 
 - 📫 How to reach me burakkurtuk@gmail.com
-- 🌱 I’m currently diving deep to ReactJs, reading JS & React books.
-- 🥅 2022 Goals: Enhange my Typescript, JS, CSS knowledge. Learn Unit Testing via Jest & React Testing Library.
+- 🌱 I’m currently diving deep to Cucumber, TestNG.
+- 🥅 2022 Goals: Enhange my Java, Git knowledge. Learn Mobile Testing via Appium.
 - ⚡ Fun fact: dog training, camping, tracking.**
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/burakkurtuk/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="35" /></a>
