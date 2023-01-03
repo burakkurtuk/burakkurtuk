@@ -6,7 +6,7 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 
 - 📫 How to reach me burakkurtuk@gmail.com
 - 🌱 I’m currently diving deep to Cucumber, TestNG.
-- 🥅 2022 Goals: Enhange my Java, Git knowledge. Learn Mobile Testing via Appium.
+- 🥅 2023 Goals: Enhange my Java, Git knowledge. Learn Mobile Testing via Appium.
 - ⚡ Fun fact: dog training, camping, tracking.**
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/burakkurtuk/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="35" /></a>
