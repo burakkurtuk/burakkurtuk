@@ -1,7 +1,5 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">Self-thought and highly motivated entry level QA Software Test Engineer. The opportunity to improve myself
-every day as far as in me lain excites me so much. I am trying to keep up-to-date my Github
-proﬁle daily. So don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
+<h4 align="center">I am a self-taught and highly motivated entry-level Software QA Tester with a passion for learning and improving my skills. I have a strong interest in pursuing a career in the field of quality assurance. I am excited by the opportunity to challenge myself and grow as a professional on a daily basis. As a Software QA Tester, I enjoy the process of finding and reporting bugs in applications and websites, including mobile applications using Appium. Please don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
 
 
 - 📫 How to reach me burakkurtuk@gmail.com
