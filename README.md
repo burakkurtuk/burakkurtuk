@@ -3,8 +3,8 @@
 
 
 - 📫 How to reach me burakkurtuk@gmail.com
-- 🌱 I’m currently diving deep to Cucumber, TestNG.
-- 🥅 2023 Goals: Enhange my Java, Git knowledge. Learn Mobile Testing via Appium.
+- 🌱 I’m currently diving deep to Appium.
+- 🥅 2023 Goals: Enhange my Java knowledge.
 - ⚡ Fun fact: dog training, camping, tracking.**
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/burakkurtuk/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="35" /></a>
