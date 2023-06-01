@@ -1,1 +1,1 @@
-![Untitled (1)](https://github.com/burakkurtuk/burakkurtuk/assets/107056455/9b9e3a16-e7c4-49df-b6ee-d755b0fe3ab1)
+![Untitled (2)](https://github.com/burakkurtuk/burakkurtuk/assets/107056455/988dbc4b-bd46-4896-867a-621ce9cd3cff)
